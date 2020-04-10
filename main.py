@@ -25,10 +25,6 @@ class Main:
 			import src.olx
 		elif pilih == 3:
 			import src.spamemail
-		elif pilih == 4:
-			import src.price
-		elif pilih == 5:
-			import src.mediatek
 		else: print("[!] lihat menu boss(o)");self.menu()
 
 	def detekos(self):
