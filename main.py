@@ -8,10 +8,10 @@ class Main:
 	def menu(self):
 		print("""
 		;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-		;     S P A M - E M A I L    ;
+		;     S P A M - E M A I L   ;
 		;---------------------------;
-		; Author : Mastah - Venom     ;
-		; Callme : t.me/kang_Venom ;
+		; Author : Mastah - Venom   ;
+		; Callme : t.me/kang_Venom  ;
 		;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
 1. Spam BPJS
