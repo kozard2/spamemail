@@ -20,11 +20,11 @@ class Main:
 """)
 		pilih=int(input('/Kang-venom: '))
 		if pilih == 1:
-			import src.mail
+			import src.mail.py
 		elif pilih == 2:
-			import src.olx
+			import src.olx.py
 		elif pilih == 3:
-			import src.spamemail
+			import src.spamemail.py
 		else: print("[!] lihat menu boss(o)");self.menu()
 
 	def detekos(self):
